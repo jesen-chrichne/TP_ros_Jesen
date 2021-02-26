@@ -2,7 +2,7 @@
 
 Fonctionnalite:
   * Suivi de la trajectoire d'un carre
-  * Utilisation d'un boutton pour changer l'etat d'un topic
+  * Utilisation d'un boutton pour changer l'etat du topic
 
 Utilisation:
   roslaunche TP_ros_Jesen PublishCarre.py
